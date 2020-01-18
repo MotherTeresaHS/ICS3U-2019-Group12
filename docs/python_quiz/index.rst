@@ -32,7 +32,7 @@ python-quiz
    :alt: Computer Based Problem Solving
    :align: center
 
-Welcome to our website read the docs. This will explain what we did each day and how our website comes together.
+Welcome to our website read the docs. This will explain what we did each day and how our website comes together. As a source, I would recommend you check out this website https://aws-serverless-web-application.readthedocs.io/en/latest/index.html
 
 .. toctree::
    :maxdepth: 2
