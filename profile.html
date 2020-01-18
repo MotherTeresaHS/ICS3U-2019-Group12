@@ -5,16 +5,16 @@
     <!--Cognito JavaScript-->
     <script src="js/amazon-cognito-identity.min.js"></script>
     <script src="js/config.js"></script>
-    <script src="js/sign-out.js"></script>
+    <script type="text/javascript" src="js/profile.js"></script>
   </head>
 
   <body>
     <div class="container">
       <div>
-        <h1>Sign Out</h1>
-        <div id='sign-out'>
-          <p>One moment please ...</p>
-        </div>
+        <h1>Profile</h1>
+      </div>
+      <div id='profile'>
+        <p>One moment please ...</p>
       </div>
     <div>
 
@@ -27,7 +27,7 @@
   </body>
   <script>
     window.onload = function(){
-      const temp_var = signOut();
+      const temp_var = getUserAttributes();
     }
   </script>
 </html>
