@@ -39,5 +39,14 @@ Welcome to our website read the docs. This will explain what we did each day and
    :hidden:
    :titlesonly:
 
-   preface/index
-   introduction/index
+   self/index
+   january6/index
+   january7/index
+   january8/index
+   january9/index
+   january10/index
+   january13/index
+   january14/index
+   january15/index
+   january16/index
+   january17/index
