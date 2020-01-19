@@ -10,13 +10,11 @@ async function getUser(email_address) {
     
     const json_profile = JSON.parse(api_data['body']);
     const div_user_profile_email = document.getElementById('profile_email');
-    const div_user_profile_first_name = document.getElementById('profile_first_name');
-    const div_user_profile_last_name = document.getElementById('profile_last_name');
-    const div_user_profile_age = document.getElementById('profile_age');
+    const div_user_profile_username = document.getElementById('profile_username');
+    const div_user_profile_marks = document.getElementById('profile_marks');
     div_user_profile_email.innerHTML = json_profile['email'];
-    div_user_profile_first_name.innerHTML = json_profile['first_name'];
-    div_user_profile_last_name.innerHTML = json_profile['last_name'];
-    div_user_profile_age.innerHTML = json_profile['age'];
+    div_user_profile_username.innerHTML = json_profile['username'];
+    div_user_profile_marks.innerHTML = json_profile['marks'];
   }
   
 function getUserAttributes() {
