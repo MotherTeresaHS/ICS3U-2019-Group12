@@ -25,7 +25,7 @@
     </style>
 
 ==============================
-python-quiz
+python-quiz Mr. Coxall
 ==============================
 
 .. image:: /images/ComputerBasedProblemSolving.png
