@@ -125,20 +125,29 @@ You might also want:
       :alt: USB Cable
       :align: left
 
-  .. container:: rightside
+
+==============================
+python-quiz
+==============================
 
     `3D Printed Case <https://www.tinkercad.com/things/fHOWOY88j9A?utm_source=externalsite&utm_medium=embedver1&utm_campaign=embed>`_
 
-    I did not create this case. I `altered Adafruit's design <https://learn.adafruit.com/pybadge-case/>`_. One of the screw posts was hitting the built in speaker and the case was not closing properly. I also added a piece of plastic over the display ribbon cable, to keep it better protected. You will need 4 x 3M screws to hold the case together.
+Welcome to our website read the docs. This will explain what we did each day and how our website comes together. As a source, I would recommend you check out this website https://aws-serverless-web-application.readthedocs.io/en/latest/index.html
 
 .. toctree::
   :maxdepth: 2
   :hidden:
   :titlesonly:
 
-  self
-  install/index
-  ide/index
-  image_bank/index
-  game/index
-  menu/index
+   self/index
+   january6/index
+   january7/index
+   january8/index
+   january9/index
+   january10/index
+   january13/index
+   january14/index
+   january15/index
+   january16/index
+   january17/index
+   january20/index
