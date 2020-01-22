@@ -14,8 +14,8 @@ async function getUser(email_address) {
     const div_user_profile_username = document.getElementById('profile_username');
     const div_user_profile_marks = document.getElementById('profile_marks');
     div_user_profile_email.innerHTML = json_profile['Email'];
-    div_user_profile_username.innerHTML = json_profile['username'];
-    div_user_profile_marks.innerHTML = json_profile['marks'];
+    div_user_profile_username.innerHTML = json_profile['Username'];
+    div_user_profile_marks.innerHTML = json_profile['Mark'];
   }
   
 function getUserAttributes() {
